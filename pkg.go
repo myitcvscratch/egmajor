@@ -1,3 +1,3 @@
 package egmajor
 
-const Name = "initial"
+const Name = "change"
